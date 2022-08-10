@@ -1,0 +1,20 @@
+h1,h5{
+    color: blue;
+    background-color:rgb(204, 255, 0);
+    background-position: center;
+}
+{
+    color: blue;
+    background-color: brown;
+}
+p{color: green;
+    background-color: yellow;
+}
+.abc{
+    color: crimson;
+    background-color: cornflowerblue;
+}
+#xyz{
+    color: chartreuse;
+    background-color: darkmagenta;
+}
