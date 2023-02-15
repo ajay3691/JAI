@@ -1,5 +1,5 @@
-let num = 2301
-if (num % 2 == 0) {
+let number = 51
+if (number % 2 == 0) {
     console.log("Even Number")
 }
 else {

@@ -1,1 +1,1 @@
-0? console.log("Still Bachelor") : console.log("No");
+0 ? console.log("Still Bachelor") : console.log("No");

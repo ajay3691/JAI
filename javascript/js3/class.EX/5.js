@@ -2,7 +2,8 @@ class Employee {
     //class is template to constuct object
     id = 101
     name = "Rahul"
-    get_Details = () => {
+    get_Details 
+    = () => {
         console.log("GM")
     }   
 }
